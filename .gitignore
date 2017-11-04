@@ -1,0 +1,9 @@
+/.vs
+/NetCore.Todo/bin
+/NetCore.Todo/obj
+/NetCore.Todo.Dal/bin
+/NetCore.Todo.Dal/obj
+/NetCore.Todo.SharedKernel/bin
+/NetCore.Todo.SharedKernel/obj
+/Todoer.Dal.Tests/bin
+/Todoer.Dal.Tests/obj
